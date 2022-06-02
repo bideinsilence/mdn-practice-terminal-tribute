@@ -1,5 +1,4 @@
-# bideinsilence.github.io
-
+# bideinsilence.github.io/mdn-practice-terminal-tribute/
 first-published-sample-site:
 "A Tribue to the terminal"
 
